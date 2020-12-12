@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reduxecartapp/static/css/main.5ad6d8d7.chunk.css",
+    "main.js": "/reduxecartapp/static/js/main.c411eda4.chunk.js",
+    "main.js.map": "/reduxecartapp/static/js/main.c411eda4.chunk.js.map",
+    "runtime-main.js": "/reduxecartapp/static/js/runtime-main.dac4951c.js",
+    "runtime-main.js.map": "/reduxecartapp/static/js/runtime-main.dac4951c.js.map",
+    "static/js/2.9675c788.chunk.js": "/reduxecartapp/static/js/2.9675c788.chunk.js",
+    "static/js/2.9675c788.chunk.js.map": "/reduxecartapp/static/js/2.9675c788.chunk.js.map",
+    "static/js/3.7c86f6dc.chunk.js": "/reduxecartapp/static/js/3.7c86f6dc.chunk.js",
+    "static/js/3.7c86f6dc.chunk.js.map": "/reduxecartapp/static/js/3.7c86f6dc.chunk.js.map",
+    "index.html": "/reduxecartapp/index.html",
+    "static/css/main.5ad6d8d7.chunk.css.map": "/reduxecartapp/static/css/main.5ad6d8d7.chunk.css.map",
+    "static/js/2.9675c788.chunk.js.LICENSE.txt": "/reduxecartapp/static/js/2.9675c788.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reduxecartapp/static/media/banner.380a65bb.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dac4951c.js",
+    "static/js/2.9675c788.chunk.js",
+    "static/css/main.5ad6d8d7.chunk.css",
+    "static/js/main.c411eda4.chunk.js"
+  ]
+}
